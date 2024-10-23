@@ -1,0 +1,1 @@
+This is my Smart ai assistant named jarvis, capable of doing web searches , performing system level operations like shutting down ,restarting down pc etc. Run the .py files on local ide prefer pycharm.
